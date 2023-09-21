@@ -1,4 +1,4 @@
-# Import Python Modules
+# Import Python3.9 Modules
 import numpy as np # 数値計算ライブラリ
 from scipy.integrate import odeint # 常微分方程式を解くライブラリ
 import matplotlib.pyplot as plt # 描画ライブラリ

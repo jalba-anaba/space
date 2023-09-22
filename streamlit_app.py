@@ -33,4 +33,5 @@ plt.ylim(y_start, y_end)
 plt.xlabel('x')
 plt.ylabel('y')
 plt.title('Vortex Flow')
+!pip install matplotlib
 pip install matplotlib
